@@ -1,0 +1,5 @@
+# URL|HTML filename
+https://scholar.google.com/citations?hl=en&user=ZpG_cJwAAAAJ|YoshuaBengio.html
+https://scholar.google.com/citations?hl=en&user=Wj4ZBFIAAAAJ|DavidPatterson.html
+https://scholar.google.com/citations?hl=en&user=mG4imMEAAAAJ|AndrewNg.html
+https://scholar.google.com/citations?hl=en&user=JicYPdAAAAAJ|GeoffreyHinton.html
